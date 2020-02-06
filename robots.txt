@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://soatheepo.christinrakers.com/sitemap.xml
